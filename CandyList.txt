@@ -1,0 +1,8 @@
+Candy Name, Candy Calories, Total Fat Grams
+Snickers, 250, 12
+KitKat, 200, 11
+Twix, 280, 14
+Milky Way, 240, 10
+Reese's, 210, 13S
+Skinny-licious Bar, 80, 10
+Air Candy, 5, 0
